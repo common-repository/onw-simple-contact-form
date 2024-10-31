@@ -1,0 +1,256 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/onw-simple-contact-form\n"
+"POT-Creation-Date: 2010-06-14 03:15+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: onw_simple_contact.php:93
+#, php-format
+msgid "%s has sent you a message"
+msgstr ""
+
+#: onw_simple_contact.php:94
+msgid "Please use the form below to send an email to the site administrator."
+msgstr ""
+
+#: onw_simple_contact.php:95
+msgid "Send an Email"
+msgstr ""
+
+#. translators: This refers to the user's name
+#: onw_simple_contact.php:97 onw_simple_contact.php:328
+msgctxt "noun"
+msgid "Name:"
+msgstr ""
+
+#. translators: This refers to the user's email address
+#: onw_simple_contact.php:99
+msgctxt "noun"
+msgid "Email:"
+msgstr ""
+
+#. translators: This refers to the form's message field
+#: onw_simple_contact.php:101 onw_simple_contact.php:334
+msgid "Message:"
+msgstr ""
+
+#. translators: This is the plugin's name (as seen in the menu and administration page)
+#: onw_simple_contact.php:187
+msgid "ONW Simple Contact"
+msgstr ""
+
+#: onw_simple_contact.php:196
+msgid "Red"
+msgstr ""
+
+#: onw_simple_contact.php:197
+msgid "White"
+msgstr ""
+
+#: onw_simple_contact.php:198
+msgid "Black Glass"
+msgstr ""
+
+#: onw_simple_contact.php:199
+msgctxt "adjective"
+msgid "Clean"
+msgstr ""
+
+#: onw_simple_contact.php:253
+msgid "Settings saved."
+msgstr ""
+
+#: onw_simple_contact.php:259
+msgid "Configuration"
+msgstr ""
+
+#: onw_simple_contact.php:264
+msgctxt "noun"
+msgid "Display"
+msgstr ""
+
+#. translators: the fieldset is a box surrounding the contact form.
+#: onw_simple_contact.php:283
+msgid "Would you like to display the Fieldset?"
+msgstr ""
+
+#: onw_simple_contact.php:288
+msgid "The fieldset is the box around the whole form."
+msgstr ""
+
+#. translators: The fieldset text is the 'legend', the text that appears as part of the fieldset
+#: onw_simple_contact.php:293
+msgid "Fieldset Text:"
+msgstr ""
+
+#: onw_simple_contact.php:300
+msgid "Recaptcha Color Scheme:"
+msgstr ""
+
+#: onw_simple_contact.php:318
+msgid "Input Field Labels"
+msgstr ""
+
+#. translators: This refers to the text that appears above the form
+#: onw_simple_contact.php:325
+msgid "Upper Text:"
+msgstr ""
+
+#: onw_simple_contact.php:331
+msgid "Email Address:"
+msgstr ""
+
+#: onw_simple_contact.php:340
+msgid "Message Box Size:"
+msgstr ""
+
+#: onw_simple_contact.php:344
+msgid "Width:"
+msgstr ""
+
+#. translators: The %s will be an input field with numbers.
+#: onw_simple_contact.php:349
+#, php-format
+msgid "%s columns"
+msgstr ""
+
+#: onw_simple_contact.php:351
+msgid "Height:"
+msgstr ""
+
+#. translators: The %s will be an input field with numbers.
+#: onw_simple_contact.php:356
+#, php-format
+msgid "%s rows"
+msgstr ""
+
+#: onw_simple_contact.php:364
+msgid "Update Display Settings"
+msgstr ""
+
+#: onw_simple_contact.php:384
+msgid "Recipient Email Address:"
+msgstr ""
+
+#: onw_simple_contact.php:390
+msgid ""
+"The recipient email address is the default email address to which the form "
+"will send emails. By default, the recipient email address is the same as the "
+"admin email set in the General Settings tab, but you can change it here.  "
+"You can also specify a different email address in the shortcode itself."
+msgstr ""
+
+#: onw_simple_contact.php:397
+msgid "Default Subject"
+msgstr ""
+
+#: onw_simple_contact.php:405
+msgid ""
+"The default subject is the subject line in the email that forms will use "
+"unless another subject line is given in the shortcode."
+msgstr ""
+
+#: onw_simple_contact.php:408
+#, php-format
+msgid ""
+"To use the given name of the user (the name they provide in the form) use %s"
+msgstr ""
+
+#: onw_simple_contact.php:411
+#, php-format
+msgid "To use the given email of the user, use %s"
+msgstr ""
+
+#: onw_simple_contact.php:421
+msgid "Enable reCAPTCHA?"
+msgstr ""
+
+#: onw_simple_contact.php:435
+msgid "Enabled"
+msgstr ""
+
+#: onw_simple_contact.php:441
+msgid "Disabled"
+msgstr ""
+
+#: onw_simple_contact.php:444
+#, php-format
+msgid ""
+"reCAPTCHA is a highly effective (and FREE!) bot check web application. It "
+"asks those filling out your form to type a slightly distorted word before it "
+"will process the form. %1$s Before you can enable reCAPTCHA, you have to go "
+"to %2$s and sign up for a free account. Then, enter the public key and "
+"private key from your account in the fields below. Once you have saved the "
+"keys here, you will be able to activate reCAPTCHA."
+msgstr ""
+
+#: onw_simple_contact.php:451
+msgid "reCAPTCHA Public Key"
+msgstr ""
+
+#: onw_simple_contact.php:461
+msgid "reCAPTCHA Private Key"
+msgstr ""
+
+#: onw_simple_contact.php:475
+msgid "Update Settings"
+msgstr ""
+
+#: onw_simple_contact.php:592
+msgid "All fields are required."
+msgstr ""
+
+#: onw_simple_contact.php:599
+msgid "Do not fill out this form field:"
+msgstr ""
+
+#: onw_simple_contact.php:607 onw_simple_contact.php:627
+msgid "Send Email"
+msgstr ""
+
+#: onw_simple_contact.php:696
+msgid "Please prove you are not a robot by correctly answering the question."
+msgstr ""
+
+#: onw_simple_contact.php:700
+msgid "The reCAPTCHA was not answered correctly. Please try again."
+msgstr ""
+
+#: onw_simple_contact.php:708
+msgid "Please provide your name."
+msgstr ""
+
+#: onw_simple_contact.php:713
+msgid "Please provide some text to be sent in the email."
+msgstr ""
+
+#: onw_simple_contact.php:718
+msgid "Please provide a real email address."
+msgstr ""
+
+#. translators: email sent date format, see http://php.net/date
+#: onw_simple_contact.php:740
+msgid "h:i:s A e, l F j Y"
+msgstr ""
+
+#. translators: String is formatted like this: "Sent {date and time} by {name} ({email address})"
+#: onw_simple_contact.php:742
+#, php-format
+msgid "Sent %1$s by %2$s (%3$s)."
+msgstr ""
+
+#: onw_simple_contact.php:807
+msgid "Your email has been sent."
+msgstr ""
